@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Bookworm",
+    "slug": "Bookworm",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Bookworm"
+}
