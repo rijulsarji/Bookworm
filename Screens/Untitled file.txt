@@ -1,0 +1,1 @@
+      //Can use props.data also but remove destruction from function parameter. (ModalScreen)
